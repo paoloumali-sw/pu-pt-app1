@@ -1,1 +1,13 @@
-{}
+{
+    "name": "paoloumali-sw/pu-pt-app1",
+    "require": {
+	"php": "^7.2.0",
+        "symfony/finder": "^4.2"
+    },
+    "authors": [
+        {
+            "name": "Paolo Umali",
+            "email": "paolo.umali@solarwinds.cloud"
+        }
+    ]
+}
